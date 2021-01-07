@@ -3,7 +3,7 @@
 
 ----
 Используется датасет, содержащий фильмы выходящие на стриминговых платформах. Датасет взят с [kaggle.com](http://kaggle.com), очищен и преобразован
-<br> <a href="www.kaggle.com/ruchi798/movies-on-netflix-prime-video-hulu-and-disney">Ссылка на оригинальный датасет</a>
+<br>[Ссылка на оригинальный датасет](https://kaggle.com/ruchi798/movies-on-netflix-prime-video-hulu-and-disney)
 
 
 ----
